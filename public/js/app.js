@@ -1,7 +1,3 @@
-console.log("I am from app.js")
-
-
-
 const weatherForm = document.querySelector('form');
 const addressBox = document.querySelector('input');
 const line1 = document.querySelector('#line1');
